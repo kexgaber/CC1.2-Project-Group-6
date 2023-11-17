@@ -32,7 +32,7 @@
     function swapImage(){
         const newSlide = document.createElement('img');
 
-        newSlide.src = `../images/${myphotos[currentImage]}`;
+        newSlide.src = `./images/${myphotos[currentImage]}`;
 
         newSlide.className = 'fadeinimg';
 
