@@ -1,0 +1,12 @@
+*Introduction 
+
+Each of our pages contains buttons or links to other pages. There are toltal 4 pages.
+
+1. Cat page shows the cat.html page author's cat. At the bottom of the page, it contains a picture of the cat which is actually a slideshow of this cat. 
+
+2. Golden-Retriever page contatins a link to a video about Golder-Retriever. 
+
+3. Otter page use tab feature to show different aspects of otter. By Cliking on tabs, you can learn more about otter's habitat, diet, etc. 
+
+4.Panda page contains a slide feature that can advance to next picture and go back to previous picture by clicking on "Previous" or "Next" button. Listener is listen on click events and trigger Javascript functions to advance and go back to different picture.
+  
